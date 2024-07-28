@@ -1,0 +1,8 @@
+        let arrayy = ["Ali", "Ali", "Qabil", "Qalib", "Behlul", "Ali", "Malik", "Kamil"];
+
+verilmis arraye uygunn olaraq arrow functiondan isdifade ederek dinamik olaraq
+bir array ve bir simvol("herf") qebul eden funksiya yaradin
+gonderilen herfle uygun olaraq o herfle baslayan adlari secib 
+yeni arrayde ekrana cap elesin
+qeyd: for of dan istifade ede bilersiz .
+basa dusmediyiniz hisse varsa sorusun ugurlar
